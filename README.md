@@ -1,6 +1,6 @@
 # Weather-app
 
-Mini app on HTML, CSS &amp; JS to practice.
+Mini app on HTML, CSS &amp; JS.
 
 Webpage preview:
 
